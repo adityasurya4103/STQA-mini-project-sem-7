@@ -1,0 +1,1 @@
+# STQA-mini-project-sem-7
