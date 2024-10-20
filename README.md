@@ -2,9 +2,7 @@
 
 ### This project will need the chromedriver-win64
 
-### In the selenium_test.py file change the path to your respective driver location the path is in service variable
-
-## Steps to Run the code 
+# Steps to Run the code 
 1. Open xampp control panel
 2. Start Apache and MySql
 3. Open http://localhost/phpmyadmin
