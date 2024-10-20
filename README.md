@@ -14,4 +14,5 @@
 7. Run the Python File.
 8. Output will be visible in the selenium_tests in phpmyadmin
 
-# Screenshots    
+# Screenshots   
+![Screenshot 2024-10-20 144553](https://github.com/user-attachments/assets/240e4f1d-4afe-497f-8792-e037fce1eb92)
